@@ -1,0 +1,12 @@
+header{
+  display: flex;
+  justify-content: center;
+}
+
+.container_body-home {
+  margin-top: 2rem;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
